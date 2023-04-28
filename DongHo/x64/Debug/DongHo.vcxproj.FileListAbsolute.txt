@@ -1,0 +1,2 @@
+C:\Users\ADMIN\OneDrive\Máy tính\DongHo\x64\Debug\DongHo.exe
+C:\Users\ADMIN\source\Hoc_API\DongHo\x64\Debug\DongHo.exe
